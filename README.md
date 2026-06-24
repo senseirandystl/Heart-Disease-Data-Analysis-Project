@@ -53,5 +53,5 @@ This project showcases core data analyst competencies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/senseirandystl/Data-Analyst-Final-Project.git
-   cd Data-Analyst-Final-Project
+   git clone https://github.com/senseirandystl/Heart-Disease-Data-Analysis-Project.git
+   cd Heart-Disease-Data-Analysis-Project
